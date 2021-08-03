@@ -1,4 +1,4 @@
-# SF Book recommendations
+# Science Fiction & Fantasy Book recommendations
 So, you're looking for some book recommendations in either the fantasy or science fiction genre? I've got you covered!
 
 ## Fantasy
@@ -8,7 +8,8 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- The Heroees (2011)
 	- Red Country (2012)
 	- The Age of Madness, 3 books (A Little Hatred, The Trouble With Peace, The Wisdom of Crowds **Unreleased**) (2019-2021) **Unfinished**
-_Note: All Abercrombie's books mentioned here are set in the same universe and are best enjoyed reading in order._
+
+	- _Note: All Abercrombie's books mentioned here are set in the same universe and are best enjoyed reading in order._
 
 
 - Steven Erikson
