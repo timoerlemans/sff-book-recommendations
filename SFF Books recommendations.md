@@ -11,6 +11,7 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 
 	- _Note: All Abercrombie's books mentioned here are set in the same universe and are best enjoyed reading in order._
 
+- Daniel Abraham
 
 - Steven Erikson
 	- Malazan Book of the Fallen, 10 books (Gardens of the Moon, Deadhouse Gates, Memories of Ice, House of Chains, Midnight Tides, The Bonehunters, Reaper's Gale, Toll the Hounds, Dust of Dreams, The Crippled God) (Released 1999-2011)
@@ -35,8 +36,18 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	
 	- _Note: Robert Jordan died in 2007 while working on the twelfth book in the series. Fellow fantasy Brandon Sanderson was brought in to complete the series, and wrote the last three volumes based on the extensive notes that Jordan left behind._
 
+- Mark Lawrence
+
 - George R.R. Martin
 	- A Song of Ice and Fire, 7 books (planned, 5 released) (A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance With Dragons, The Winds of Winter **Unreleased**, A Dream of Spring **Unreleased**) (Released 1996-?) **Unfinished**
+
+- Brian McClellan
+	- The Powder Mage, 3 books (Promise of Blood, The Crimson Campaign, The Autumn Republic) (Released 2013-2015)
+	- Gods of Blood and Powder, 3 books (Sins of Empire, Wrath of Empire, Blood of Empire) (Released 2017-2019)
+	- _Note: Gods of Blood and Powder is a sequel series to The Powder Mage trilogy._
+
+- Richard K. Morgan
+	- A Land Fit For Heroes, 3 books (The Steel Remains, The Cold Commands, The Dark Defiles) (Released 2008-2014)
 
 - Brandon Sanderson
 	- Elantris (Released 2005)
@@ -47,6 +58,16 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 
 - Terry Pratchett
 	- Discworld, 41 books (The Colour of Magic, The Light Fantastic, Equal Rites, Mort, Sourcery, Wyrd Sisters, Pyramids, Guards! Guards!, Eric, Moving Pictures, Reaper Man, Witches Abroad, Small Gods, Lords and Ladies, Men at Arms, Soul Music, Interesting Times, Maskerade, Feet of Clay, Hogfather, Jingo, The Last Continent, Carpe Jugulum, The Fifth Elephant, The Truth, Thief of Time, The Last Hero, The Amazing Maurice and His Educated Rodents, Night Watch, The Wee Free Men, Monstrous Regiment, A Hat Full of Sky, Going Postal, Thud!, Wintersmith, Making Money, Unseen Academicals, I Shall Wear Midnight, Snuff, Raising Steam, The Shepherd's Crown) (Released 1983-2015)
+
+- Michael J. Sullivan
+
+- J.R.R. Tolkien
+	- The Hobbit (Released 1937)
+	- The Lord of the Rings, 3 books (The Fellowship of the Ring, The Two Towers, The Return of the King) (Released 1954-1955)
+
+- Brent Weeks
+	- The Night Angel, 3 books (The Way of Shadows, Shadow's Edge, Beyond the Shadows) (Released 2008)
+	- Lightbringer, 5 books (The Black Prism, The Blinding Knife, The Broken Eye, The Blood Mirror, The Burning White) (Released 2010-2019)
 
 - Gene Wolfe
 	- The Fifth Head of Cerberus (Released 1972)
@@ -75,8 +96,17 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 
 
 - Peter F. Hamilton
+	- The Night's Dawn, 3 books (The Reality Dysfunction, The Neutronium Alchemist, The Naked God) (Released 1996-1999)
+	- The Commonwealth Saga, 2 books (Pandora's Star, Judas Unchained) (Released 2004-2005)
+	- The Void, 3 books (The Dreaming Void, The Temperal Void, The Evolutionary Void) (Released 2007-2010)
+	- The Chronicles of the Fallers (The Abyss Beyond Dreams, Night Without Stars) (Released 2014-2016)
+	- _Note: The Commonwealth Saga, The Void trilogy and The Chronicles of the Fallers series all take place in the same universe, but can be read independently._
+
+- Arkady Martine
+	- Teixcalaan, 2 books (A Memory Called Empire, A Desolation Called Peace) (Released 2019-2021)
 
 - Richard K. Morgan
+	- Takeshi Kovacs, 3 books (Altered Carbon, Broken Angels, Woken Furies) (Released 2002-2005)
 
 - Alastair Reynolds
 	
