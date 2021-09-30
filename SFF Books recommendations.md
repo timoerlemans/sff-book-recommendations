@@ -39,7 +39,7 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 - Robert Jordan
 	- The Wheel of Time, 15 books (New Spring _prequel_, The Eye of the World, The Great Hunt, The Dragon Reborn, The Shadow Rising, The Fires of Heaven, Lord of Chaos, A Crown of Swords, The Path of Daggers, Winter's Heart, Crossroads of Twilight, Knife of Dreams, The Gathering Storm _completed by Brandon Sanderson_, Towers of Midnight _completed by Brandon Sanderson_, A Memory of Light _completed by Brandon Sanderson_) (Released 1990-2013)
 	
-	- _Note: Robert Jordan died in 2007 while working on the twelfth book in the series. Fellow fantasy Brandon Sanderson was brought in to complete the series, and wrote the last three volumes based on the extensive notes that Jordan left behind._
+	- _Note: Robert Jordan died in 2007 while working on the twelfth book in the series. Fellow fantasy writer Brandon Sanderson was brought in to complete the series, and wrote the last three volumes based on the extensive notes that Jordan left behind._
 
 - Mark Lawrence
 	- The Broken Empire, 3 books (Prince of Thorns, King of Thorns, Emperor of Thorns) (Released 2011-2013)
@@ -136,6 +136,9 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- The Void, 3 books (The Dreaming Void, The Temperal Void, The Evolutionary Void) (Released 2007-2010)
 	- The Chronicles of the Fallers (The Abyss Beyond Dreams, Night Without Stars) (Released 2014-2016)
 	- _Note: The Commonwealth Saga, The Void trilogy and The Chronicles of the Fallers series all take place in the same universe, but can be read independently._
+
+- Frank Herbert
+	- Dune, 6 books (Dune, Dune Messiah, Children of Dune, God Emperor of Dune, Heretics of Dune, Chapterhouse: Dune) (Released 1963-1985)
 
 - Arkady Martine
 	- Teixcalaan, 2 books (A Memory Called Empire, A Desolation Called Peace) (Released 2019-2021)
