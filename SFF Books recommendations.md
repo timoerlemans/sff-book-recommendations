@@ -7,16 +7,17 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- Best Served Cold (2009)
 	- The Heroes (2011)
 	- Red Country (2012)
-	- The Age of Madness, 3 books (A Little Hatred, The Trouble With Peace, The Wisdom of Crowds **Unreleased**) (2019-2021) **Unfinished**
+	- The Age of Madness, 3 books (A Little Hatred, The Trouble With Peace, The Wisdom of Crowds) (2019-2021)
 
 	- _Note: All Abercrombie's books mentioned here are set in the same universe and are best enjoyed reading in order._
 
 - Daniel Abraham
 	- The Long Price Quartet, 4 books (A Shadow in Summer, A Betrayal in Winter, An Autumn War, The Price of Spring) (Released 2006-2009)
 	- The Dagger and the Coin, 5 books (The Dragon's Path, The King's Blood, The Tyrant's Law, The Widow's House, The Spider's War) (Released 2011-2016)
+	- Kithamar, 3 books (planned, 1 book released) (Age of Ash) (Released 2022-?) **Unfinished**
 
 - Josiah Bancroft
-	- The Books of Babel, 4 books (planned, 3 books released) (Senlin Ascends, Arm of the Sphinx, The Hod King, The Fall of Babel **Unreleased**) (Released 2013-2021) **Unfinished**
+	- The Books of Babel, 4 books (planned, 3 books released) (Senlin Ascends, Arm of the Sphinx, The Hod King, The Fall of Babel) (Released 2013-2021)
 
 - Steven Erikson
 	- Malazan Book of the Fallen, 10 books (Gardens of the Moon, Deadhouse Gates, Memories of Ice, House of Chains, Midnight Tides, The Bonehunters, Reaper's Gale, Toll the Hounds, Dust of Dreams, The Crippled God) (Released 1999-2011)
@@ -34,7 +35,7 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- Inheritance, 3 books (The Hundred Thousand Kingdoms, The Broken Kingdoms, The Kingdom of Gods) (Released 2010-2011)
 	- Dreamblood, 2 books (The Killing Moon, The Shadowed Sun) (Released 2012)
 	- The Broken Earth, 3 books (The Fifth Season, The Obelisk Gate, The Stone Sky) (Released 2015-2017)
-	- Great Cities, 1 book (The City We Became) (Released 2020-?) **Unfinished**
+	- Great Cities, 2 books (The City We Became, The World We Make **Unreleased**) (Released 2020-?) **Unfinished**
 
 - Robert Jordan
 	- The Wheel of Time, 15 books (New Spring _prequel_, The Eye of the World, The Great Hunt, The Dragon Reborn, The Shadow Rising, The Fires of Heaven, Lord of Chaos, A Crown of Swords, The Path of Daggers, Winter's Heart, Crossroads of Twilight, Knife of Dreams, The Gathering Storm _completed by Brandon Sanderson_, Towers of Midnight _completed by Brandon Sanderson_, A Memory of Light _completed by Brandon Sanderson_) (Released 1990-2013)
@@ -45,9 +46,10 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- The Broken Empire, 3 books (Prince of Thorns, King of Thorns, Emperor of Thorns) (Released 2011-2013)
 	- The Red Queen's War, 3 books (Prince of Fools, The Liar's Key, The Wheel of Osheim) (Released 2014-2016)
 	- The Book of the Ancestor, 3 books (Red Sister, Grey Sister, Holy Sister) (Released 2017-2019)
+	- Book of the Ice, 3 books (The Girl and the Stars, The Girl and the Mountain, The Girl and the Moon) (Released 2020-2022)
 
 - Ken Liu
-	- The Dandelion Dynasty, 4 books (The Grace of Kings, The Wall of Storms, The Veiled Throne, Speaking Bones **Unreleased**) (Released 2015-2022) **Unfinished**
+	- The Dandelion Dynasty, 4 books (The Grace of Kings, The Wall of Storms, The Veiled Throne, Speaking Bones) (Released 2015-2022)
 
 - Scott Lynch
 	- Gentleman Bastards, 7 books (planned, 3 released) (The Lies of Locke Lamora, Red Seas Under Red Skies, The Republic of Thieves, The Thorn of Emberlain **Unreleased**, The Ministry of Necessity **Unreleased**, The Mage and the Master Spy **Unreleased**, Inherit the Night **Unreleased**) (Released 2006-?) **Unfinished**
@@ -157,11 +159,13 @@ So, you're looking for some book recommendations in either the fantasy or scienc
 	- Redshirts (Released 2012)
 	- Lock In, 2 books (Lock In, Head On) (Released 2014-2018)
 	- The Inderdependency, 3 books (The Collapsing Empire, The Consuming Fire, The Last Emperox) (Released 2017-2020)
+	- The Kaiju Preservation Society (Released 2022)
 
 - Adrian Tchaikovsky
-	- Children of Time, 2 books (Children of Time, Children of Ruin) (Released 2015-2019)
+	- Children of Time, 3 books (Children of Time, Children of Ruin, Children of Memory **Unreleased**) (Released 2015-2022) **Unfinished**
 	- Dogs of War (Released 2017)
 	- The Doors of Eden (Released 2020)
+    - The Final Architecture, 2 books (Shards of Earth, Eyes of the Void) (Released 2021-2022)
 
 - Andy Weir
 	- The Martian (Released 2014)
